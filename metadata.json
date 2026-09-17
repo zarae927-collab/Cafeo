@@ -1,0 +1,6 @@
+{
+  "name": "NOIR CAFE ATTOCK",
+  "description": "NOIR CAFÉ Attock — A premium modern restaurant, editorial visual dining and ordering experience in Attock, Pakistan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
